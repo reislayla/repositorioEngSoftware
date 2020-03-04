@@ -31,7 +31,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - [X] Fazer upload do arquivo "imagens"
 - [ ] Testar funcionalidades
 - [ ] Preeencher Readme 
-- [ ] Preencher releases
+- [X] Preencher Releases
 
 # Histórico de Releases
 
