@@ -41,7 +41,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 # Autoria
 - Irene Canelas : @ccxirene
 - Layla Reis
-- Márcia Ferreira
+- Márcia Ferreira : @marciandreia11
 - Sara Rocha
 
 # Agradecimentos
