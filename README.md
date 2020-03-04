@@ -5,32 +5,29 @@ IDENTIFICAÇÃO:
 
 # Linguagens utilizadas
 
-<hr>
+
 Abaixo estão listados alguns tutorias utilizados para criar este código:
-<p>https://www.w3schools.com/html/</p>
-<p>https://www.flextool.com.br/tabela_cores.html</p>
-<p>https://www.w3schools.com/css/default.asp</p>
-<p>https://www.w3schools.com/php/default.asp</p>
-<p>https://www.w3schools.com/bootstrap4/</p>
+
+[HTML](https://www.w3schools.com/html/)
+  
+[TABELA DE CORES](https://www.flextool.com.br/tabela_cores.html)
+
+[CSS](https://www.w3schools.com/css/default.asp)
+
+[PHP](https://www.w3schools.com/php/default.asp)
+
+[BOOTSTRAP](https://www.w3schools.com/bootstrap4/)
 
 
 # Tarefas 
 
 - [X] Fazer upload do arquivo "scripts"
 - [X] Fazer upload do arquivo "styles"
-- [X] Fazer upload do arquivo "imagens"
+- [ ] Fazer upload do arquivo "imagens"
 - [ ] Testar funcionalidades
 - [ ] Preeencher Readme 
 - [ ] Preencher releases
 
 # Autoria
-ISMAI
-<p>Curso: Informática</p>
-<p>Ano: 2019/2020</p>
-<br>
-Alunos: 
-<p> Irene Canelas – a034919 </p>
-<p> Layla Andrade – a035056 </p>
-<p> Márcia Ferreira – a034928 </p>
-<p> Sara Rocha – a035534 </p>
+
 
