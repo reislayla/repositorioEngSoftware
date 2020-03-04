@@ -25,12 +25,12 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 # Autoria
 ISMAI
-Curso: Informática
-Ano: 2019/2020
-
+<p>Curso: Informática</p>
+<p>Ano: 2019/2020</p>
+<br>
 Alunos: 
-Irene Canelas – a034919
-Layla Andrade – a035056
-Márcia Ferreira – a034928
-Sara Rocha – a035534
+<p> Irene Canelas – a034919 </p>
+<p> Layla Andrade – a035056 </p>
+<p> Márcia Ferreira – a034928 </p>
+<p> Sara Rocha – a035534 </p>
 
