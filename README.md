@@ -42,7 +42,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - Irene Canelas : @ccxirene
 - Layla Reis : @reislayla
 - Márcia Ferreira : @marciandreia11
-- Sara Rocha
+- Sara Rocha : sararocha25
 
 # Agradecimentos
 
