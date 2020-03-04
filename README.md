@@ -42,7 +42,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - Irene Canelas : [@ccxirene](https://www.github.com/ccxirene)
 - Layla Reis : [@reislayla](https://www.github.com/reislayla)
 - Márcia Ferreira : [@marciandreia11](https://www.github.com/marciandreia11)
-- Sara Rocha : [sararocha25](https://www.github.com/sararocha25)
+- Sara Rocha : [@sararocha25](https://www.github.com/sararocha25)
 
 # Agradecimentos
 Um agradecimento ao Professor João Paredes por todas as instruções referentes à criação da página web, bem como por todas as aulas fornecidas ao longo da cadeira de Desenvolvimento de Aplicações e Interfaces Gráficas, assim como à docente Alina Trifene por ter disponibilizado uma oportunidade de acréscimo de conhecimento e experiência ao nível de trabalho com o GitHub.
