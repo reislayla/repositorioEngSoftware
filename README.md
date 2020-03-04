@@ -1,7 +1,7 @@
-# PROJETO: Adota-me
+# Projeto: Adota-me
 
 IDENTIFICAÇÃO:
-O projeto "ADOTA-ME" tem como objetivo ser uma plataforma simples e intuitiva para que o utilizador possa visualizar imagens e algumas características dos animais disponíveis para adotar próximos da sua área da sua residência. Assim, facilita o contacto com o abrigo onde este se encontra e, consequentemente, o processo de adoção.
+<p>O projeto "ADOTA-ME" tem como objetivo ser uma plataforma simples e intuitiva para que o utilizador possa visualizar imagens e algumas características dos animais disponíveis para adotar próximos da sua área da sua residência. Assim, facilita o contacto com o abrigo onde este se encontra e, consequentemente, o processo de adoção.</p>
 
 <hr>
 Listed below are the tutorials web site used to built this code: 
