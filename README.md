@@ -40,7 +40,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 # Autoria
 - Irene Canelas : @ccxirene
-- Layla Reis
+- Layla Reis : @reislayla
 - Márcia Ferreira : @marciandreia11
 - Sara Rocha
 
