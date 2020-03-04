@@ -28,7 +28,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 - [X] Fazer upload do arquivo "scripts"
 - [X] Fazer upload do arquivo "styles"
-- [ ] Fazer upload do arquivo "imagens"
+- [X] Fazer upload do arquivo "imagens"
 - [ ] Testar funcionalidades
 - [ ] Preeencher Readme 
 - [ ] Preencher releases
