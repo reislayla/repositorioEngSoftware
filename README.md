@@ -3,8 +3,9 @@
 IDENTIFICAÇÃO:
 <p>O projeto "ADOTA-ME" tem como objetivo ser uma plataforma simples e intuitiva para que o utilizador possa visualizar imagens e algumas características dos animais disponíveis para adotar próximos da sua área da sua residência. Assim, facilita o contacto com o abrigo onde este se encontra e, consequentemente, o processo de adoção.</p>
 
-# Linguagens utilizadas
+# Pré-requisitos
 
+# Tutoriais
 
 Abaixo estão listados alguns tutorias utilizados para criar este código:
 
@@ -28,6 +29,13 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - [ ] Preeencher Readme 
 - [ ] Preencher releases
 
+# Histórico de Releases
+
+- 1.0
+  - ALTERAÇÕES: Versão final do site 
+
 # Autoria
+
+# Agradecimentos
 
 
