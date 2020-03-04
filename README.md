@@ -45,5 +45,5 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - Sara Rocha : sararocha25 (https://www.github.com/sararocha25)
 
 # Agradecimentos
-Queremos agradecer ao Professor João Paredes, da cadeira de Desenvolvimento de Aplicações e Interfaces Gráficas, por todas as bases e conceitos necessários que nos ensinou para a criação de uma página web. Agradecemos também à professora Alina Trifene por nos ter introduzido uma ferramenta de trabalho como o GitHub, que será mais um acréscimo de conhecimento e experiência ao nível de trabalho, tanto no presente, como no futuro
+Queremos agradecer ao Professor João Paredes, da cadeira de Desenvolvimento de Aplicações e Interfaces Gráficas, por todas as bases e conceitos necessários que nos ensinou para a criação de uma página web. Agradecemos também à professora Alina Trifan por nos ter introduzido uma ferramenta de trabalho como o GitHub, que será mais um acréscimo de conhecimento e experiência ao nível de trabalho, tanto no presente, como no futuro
 
