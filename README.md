@@ -18,11 +18,19 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 - [X] Fazer upload do arquivo "scripts"
 - [X] Fazer upload do arquivo "styles"
-- [ ] Fazer upload do arquivo "imagens"
+- [X] Fazer upload do arquivo "imagens"
 - [ ] Testar funcionalidades
 - [ ] Preeencher Readme 
 - [ ] Preencher releases
 
 # Autoria
+ISMAI
+Curso: Informática
+Ano: 2019/2020
 
+Alunos: 
+Irene Canelas – a034919
+Layla Andrade – a035056
+Márcia Ferreira – a034928
+Sara Rocha – a035534
 
