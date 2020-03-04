@@ -39,7 +39,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
   - ALTERAÇÕES: Versão final do site 
 
 # Autoria
-- Irene Canelas 
+- Irene Canelas : @ccxirene
 - Layla Reis
 - Márcia Ferreira
 - Sara Rocha
