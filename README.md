@@ -19,6 +19,8 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 [PHP](https://www.w3schools.com/php/default.asp)
 
+[JS](https://www.w3schools.com/js/)
+
 [BOOTSTRAP](https://www.w3schools.com/bootstrap4/)
 
 
