@@ -45,5 +45,5 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - Sara Rocha : sararocha25
 
 # Agradecimentos
-
+Um agradecimento ao Professor João Paredes por todas as instruções referentes ao desenvolvimento da página web, bem como por todas as aulas fornecidas ao longo da cadeira de Desenvolvimento de Aplicações e Interfaces Gráficas.
 
