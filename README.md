@@ -8,7 +8,6 @@ IDENTIFICAÇÃO:
 # Pré-requisitos
 
 # Tutoriais
-
 Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 [HTML](https://www.w3schools.com/html/)
@@ -23,9 +22,10 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 [BOOTSTRAP](https://www.w3schools.com/bootstrap4/)
 
+[JQUERY]()
+
 
 # Tarefas 
-
 - [X] Fazer upload do arquivo "scripts"
 - [X] Fazer upload do arquivo "styles"
 - [X] Fazer upload do arquivo "imagens"
@@ -34,7 +34,6 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 - [X] Preencher Releases
 
 # Histórico de Releases
-
 - 1.0
   - ALTERAÇÕES: Versão final do site 
 
