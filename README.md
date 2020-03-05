@@ -22,7 +22,7 @@ Abaixo estão listados alguns tutorias utilizados para criar este código:
 
 [BOOTSTRAP](https://www.w3schools.com/bootstrap4/)
 
-[JQUERY]()
+[JQUERY](https://www.w3schools.com/jquery/)
 
 
 # Tarefas 
